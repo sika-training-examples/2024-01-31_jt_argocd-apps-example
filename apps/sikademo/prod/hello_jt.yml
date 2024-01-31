@@ -25,4 +25,5 @@ spec:
       valuesObject:
         replicas: 3
         host: hello-jt.k8s.sikademo.com
+        image: sikalabs/hello-world-server:ondrejsika
         TEXT: Hello J&T Bank
